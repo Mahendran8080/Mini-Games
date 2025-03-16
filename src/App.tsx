@@ -94,7 +94,7 @@ function App() {
                       to="/game1"
                       className="bg-gray-800 p-6 rounded-lg shadow-lg hover:bg-purple-600 transition duration-300 flex flex-col items-center"
                     >
-                      <img src="/images/rock-paper-scissors.png" alt="Game 1" className="w-full h-48 object-cover rounded-lg mb-4" />
+                      <img src="https://raw.githubusercontent.com/Mahendran8080/Mini-Games/refs/heads/main/images/rock-paper-scissors.png" alt="Game 1" className="w-full h-48 object-cover rounded-lg mb-4" />
                       <h2 className="text-xl font-bold mb-2 text-purple-300">Rock Paper Scissors</h2>
                       <p className="text-gray-400">Click to play</p>
                     </Link>
